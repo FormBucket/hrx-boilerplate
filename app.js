@@ -3,19 +3,10 @@ import React from "react";
 import { render } from "hrx";
 
 // Import style onto the page.
-require("./app.css");
+import "./app.css";
 
-// Define routes for the app.
-let routes = [
-  {
-    path: "/",
-    component: props => <div>Hello, World.</div>
-  },
-  {
-    path: "*",
-    component: props => <div>404 NOT FOUND</div>
-  }
-];
+// Import routes for the app.
+import routes from "./routes";
 
 // Render the app to the DOM.
 render(

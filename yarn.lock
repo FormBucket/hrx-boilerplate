@@ -1667,9 +1667,9 @@ home-or-tmp@^2.0.0:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.1"
 
-hrx@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/hrx/-/hrx-0.4.0.tgz#faad7633bde5f916b51081efacce9fa795202f4b"
+hrx@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/hrx/-/hrx-0.5.0.tgz#3559d370931d974f0ac301fa01f61315d20b7117"
 
 html-comment-regex@^1.1.0:
   version "1.1.1"

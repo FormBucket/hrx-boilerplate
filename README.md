@@ -1,6 +1,6 @@
 # hrx-boilerplate
 
-Clone this repo to start a new project.
+Clone this repo to start a new project based on [hrx](https://github.com/FormBucket/hrx/)
 
 ```
 $ git clone git@github.com:jcfisher007/hrx-boilerplate.git my-project-name

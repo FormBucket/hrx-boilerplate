@@ -1,0 +1,22 @@
+{
+  "name": "hrx-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal setup for react project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn parcel index.html",
+    "build": "yarn parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.8.1"
+  },
+  "dependencies": {
+    "formula": "^3.5.0",
+    "hrx": "^0.4.0",
+    "react": "^15.6.2 || ^16.0.0",
+    "react-dom": "^16.1.1"
+  }
+}

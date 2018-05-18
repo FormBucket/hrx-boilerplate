@@ -3,7 +3,7 @@
 Clone this repo to start a new project.
 
 ```
-$ git clone git@github.com:FormBucket/hrx-boilerplate.git my-project-name
+$ git clone git@github.com:jcfisher007/hrx-boilerplate.git my-project-name
 ```
 
 After cloning open the directory.

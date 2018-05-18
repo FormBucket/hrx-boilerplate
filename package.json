@@ -13,6 +13,10 @@
   "devDependencies": {
     "parcel": "^1.8.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcfisher007/hrx-boilerplate.git"
+  },
   "dependencies": {
     "formula": "^3.5.0",
     "hrx": "^0.4.0",
